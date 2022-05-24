@@ -1,5 +1,5 @@
 # Laravel Request
-[Kembali](readme.md)
+[Kembali](README.md)
 
 ## Latar Belakang Topik
 HTTP (Hypertext Transfer Protocol) merupakan protokol yang digunakan untuk mengirim data melalui web. Client mengirimkan HTTP request ke server kemudian server akan mengembalikan respon ke client. Dalam Laravel tentunya ada beberapa metode yang dapat digunakan untuk mengirimkan data, baik menggunakan GET, POST, PUT, PATCH, DELETE, ataupun OPTIONS. Untuk memudahkan hal tersebut, diperlukan adanya suatu cara yang dapat melakukan pengaksesan data yang dikirim secara object-oriented. Oleh karena itu, Laravel memiliki kelas ``Illuminate\Http\Request``
