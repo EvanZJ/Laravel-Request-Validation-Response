@@ -1,6 +1,6 @@
 # laravel-validation
 
-[Kembali](readme.md)
+[Kembali](README.md)
 
 ## Latar belakang topik
 
